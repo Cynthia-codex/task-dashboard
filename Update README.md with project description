@@ -1,0 +1,18 @@
+# Task Dashboard
+
+A modern, responsive Task Manager Dashboard built with React and Tailwind CSS.  
+Designed to showcase clean code, component-based architecture, and practical web app functionality.
+
+## Features
+- Add, delete, and mark tasks as completed
+- Filter tasks by status (All / Active / Completed)
+- Responsive design for mobile and desktop
+- Persistent data using LocalStorage
+
+## Tech Stack
+- React 18
+- Tailwind CSS
+- Vite for fast build tooling
+
+## Author
+Cynthia Joel| [GitHub](https://github.com/Cynthia-codex)
